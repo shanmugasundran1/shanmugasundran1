@@ -16,9 +16,11 @@
         <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+There%2C+I'm+Shanmugasundran;Software+Engineering+Graduate;Web+Developer;Mobile+App+Developer;Problem+Solver;Passionate+Coder;Learner&center=true&width=500&height=50" alt="Headline" />
     </div>
     <div align=center>
-        <a href=""><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href=""><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-        <a href=""><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+<a href="mailto:shanmugasundran1@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/shanmugasundran1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/shanmugasundran-ramachandran-45ab31227/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/shanmuga.sundran"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/shanmuga_1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
     </div>
     <div align=left>
         <br>
@@ -40,17 +42,6 @@
 
 
 <br>
-<br>
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-
-<p align="center">
-<a href="mailto:shanmugasundran1@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/shanmugasundran1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/shanmugasundran-ramachandran-45ab31227/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.facebook.com/shanmuga.sundran"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.instagram.com/shanmuga_1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
 
 
 🛠️ My Skills
