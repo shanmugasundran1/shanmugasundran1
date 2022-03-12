@@ -59,7 +59,6 @@
 👉 Programming languages
 
 <p align="center"> 
-
 <a href=""><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>
 <a href=""><img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
 <a href=""><img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"></a>  
@@ -71,27 +70,23 @@
 <a href=""><img alt="JQUERY" src="https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani"></a>
 <a href=""><img alt="Mysql" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white"></a>
 <a href=""><img alt="R" src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"></a>
-
 </p>
 
 👉 Frameworks and Libraries
 
 <p align="center"> 
-
 <a href=""><img alt="React Native" src="https://img.shields.io/badge/-React Native-05122A?style=flat&logo=react"></a>
 <a href=""><img alt="ReactJs" src="https://img.shields.io/badge/-React Js-05122A?style=flat&logo=react"></a>
 <a href=""><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8"></a>
 <a href=""><img alt="Spring" src="https://img.shields.io/badge/-Spring Framework-05122A?style=flat&logo=spring&logoColor=green"></a>
 <a href=""><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"></a>
 <a href=""><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28"></a>
-
 </p>
 
 
 👉 IDEs
 
 <p align="center">
-
 <a href=""><img alt="VS" src="https://img.shields.io/badge/-Visual%20Studio%20-05122A?style=flat&logo=visual-studio-code&logoColor=purple"></a>
 <a href=""><img alt="AndroidStudio" src="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84"></a>
 <a href=""><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626"></a>
@@ -107,74 +102,58 @@
 👉 Text Editors
 
 <p align="center">
-
 <a href=""><img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></a>
 <a href=""><img alt="Sublime" src="https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800"></a>
 <a href=""><img alt="Notepad" src="https://img.shields.io/badge/Notepad++-05122A.svg?logo=notepad%2B%2B&logoColor=white"></a>
-
 </p>
 <br/>
 
 
 👉 Version Control
 <p align="center">
-
 <a href=""><img alt="GIT" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></a>
 <a href=""><img alt="Github" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"></a>
-
 </p>
 
 
 👉 Hosting
 <p align="center">
-
 <a href=""><img alt="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white"/></a> 
 <a href=""><img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37"/></a> 
 <a href=""><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"></a>
 <a href=""><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"></a>
-
 </p>
 
 
 👉 Prototyping
 <p align="center">
-
 <a href=""><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"></a>
 <a href=""><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/></a>
 <a href=""><img alt="Proto Io" src="https://img.shields.io/badge/Proto.io-161637?style=flat&logo=proto.io&logoColor=00e5ff"></a>
-
 </p>
 
 
 👉 Editing and Designing
 <p align="center">
-
 <a href=""><img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop"></a>
 <a href=""><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-05122A.svg?style=flat&logo=adobepremierepro&logoColor=purple"/></a>
-
 </p>
 
 
 👉 Learning
 <p align="center">
-
 <a href=""><img alt="Stack" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"></a>
 <a href=""><img alt="Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=flat&logo=geeksforgeeks&logoColor=white"></a>
-
 </p>
 
 
 👉 Other Tools
-
 <p align="center">
-
 <a href=""><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=flat&logo=google%20sheets&logoColor=white"></a>
 <a href=""><img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"></a>
 <a href=""><img alt="Powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white"></a>
 <a href=""><img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white"></a>
-
 </p>
-
 
 
 
