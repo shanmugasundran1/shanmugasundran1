@@ -33,8 +33,8 @@
         </p>
         <ul>
             <li>🌱 <b>I'm a First Class Graduate from University of Malaya in Bachelor of Computer Science (Software Engineering).</li>
+	    <li>🤔 <b>Currently a Software Engineer at Dell Technologies. <a href="https://drive.google.com/file/d/1M0xglTUVh4lmtNduJw5AG07SrsRG9yPg/view?usp=sharing">LINK TO MY RESUME</a>.</li>
             <li>🎯 <b>I’m currently focusing on</b>: ReactJs, React Native, Python and Java oriented projects.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1M0xglTUVh4lmtNduJw5AG07SrsRG9yPg/view?usp=sharing">LINK TO MY RESUME</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
         </ul>
     </div>
