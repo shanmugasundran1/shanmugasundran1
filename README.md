@@ -51,30 +51,25 @@ Let's forge connections and chart a course towards innovative horizons.
 🛠️ My Skills
 <br>
 
-👉 Programming languages
+👉 Development Proficiencies
 
 <p align="center"> 
-<a href=""><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>
-<a href=""><img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
 <a href=""><img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"></a>  
+<a href=""><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>
 <a href=""><img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"></a>
+<a href=""><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"></a>
 <a href=""><img alt="JSON" src="https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=white"></a>
+<a href=""><img alt="JQUERY" src="https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani"></a>
+<a href=""><img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
 <a href=""><img alt="C++" src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"></a>
 <a href=""><img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"></a>
 <a href=""><img alt="PHP" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4"></a>
-<a href=""><img alt="JQUERY" src="https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani"></a>
-<a href=""><img alt="Mysql" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white"></a>
 <a href=""><img alt="R" src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"></a>
-</p>
-
-👉 Frameworks and Libraries
-
-<p align="center"> 
+<a href=""><img alt="Mysql" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white"></a>
 <a href=""><img alt="React Native" src="https://img.shields.io/badge/-React Native-05122A?style=flat&logo=react"></a>
 <a href=""><img alt="ReactJs" src="https://img.shields.io/badge/-React Js-05122A?style=flat&logo=react"></a>
 <a href=""><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8"></a>
 <a href=""><img alt="Spring" src="https://img.shields.io/badge/-Spring Framework-05122A?style=flat&logo=spring&logoColor=green"></a>
-<a href=""><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"></a>
 <a href=""><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28"></a>
 </p>
 
