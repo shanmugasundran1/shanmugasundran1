@@ -18,7 +18,7 @@
     <div align=center>
 <a href="mailto:shanmugasundran1@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/shanmugasundran1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/shanmugasundran-ramachandran-45ab31227/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/shanmugasundran-ramachandran"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/shanmuga.sundran"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.instagram.com/shanmuga_1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
     </div>
@@ -26,9 +26,15 @@
         <br>
         <p>
             <strong>
-                Software Engineering Graduate, Passionate Programmer, Web Developer, Mobile App Developer,Problem Solver<br><br>
-                I specialize in Web Development Stacks, Java, Python and MySQL Database and I have experience working with ReactJS, React Native. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+		    I am a dedicated Software Engineer at Dell Technologies with an unwavering passion for the ever-evolving realm of IT. Armed with a First-Class Software Engineering degree from the prestigious University of Malaya, I bring a robust foundation in software design, development, and testing to every project I embrace.
+
+Throughout my journey, I've been privileged to channel my expertise into a diverse array of programming projects, honing my skills across an expansive spectrum of programming languages and frameworks. From the adaptability of Java, C++, and Python to the artistry of PHP, HTML, and CSS, I've harnessed the potential of Bootstrap, JavaScript, R, NodeJS, React JS, React Native, Django, and Spring Framework to architect innovative solutions that push boundaries and surmount real-world challenges.
+
+My unwavering dedication to excellence, coupled with a relentless curiosity, propels me to dive into emerging technologies and align with industry shifts. Through dynamic collaboration with cross-functional teams and an embrace of agile methodologies, I persistently strive to craft software solutions that not only fulfill expectations but surpass them.
+
+I'm genuinely thrilled by the prospect of connecting with fellow professionals, visionary leaders, and kindred spirits who share an ardent love for technology and its capacity for transformation. Whether it's sparking conversations around pioneering concepts, exchanging profound insights, or embarking on fresh collaborations, I eagerly anticipate the chance to partake in meaningful dialogues that pave the way for innovation.
+
+Let's forge connections and chart a course towards innovative horizons.
             </strong>
         </p>
         <ul>
