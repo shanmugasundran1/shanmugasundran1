@@ -49,6 +49,19 @@ Let's forge connections and chart a course towards innovative horizons.
 
 
 🛠️ My Skills
+        <ul>
+            <li>Web Development</li>
+	    <li>Mobile App Development</li>
+            <li>API Development</li>
+            <li>UI/UX Designing</li>
+	    <li>Video Editing</li>
+	    <li>Data Science</li>
+            <li>Machine Learning</li>
+	    <li>Agile</li>
+            <li>CI/CD</li>
+	    <li>DevOps</li>
+     	    <li>Lean Six Sigma</li>
+        </ul>
 <br>
 
 👉 Development Proficiencies
@@ -71,6 +84,25 @@ Let's forge connections and chart a course towards innovative horizons.
 <a href=""><img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8"></a>
 <a href=""><img alt="Spring" src="https://img.shields.io/badge/-Spring Framework-05122A?style=flat&logo=spring&logoColor=green"></a>
 <a href=""><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28"></a>
+
+ <a href=""><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+ <a href=""><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
+ <a href=""><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+ <a href=""><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
+ <a href=""><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+ <a href=""><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+ <a href=""><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
+ <a href=""><img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"></a>
+ <a href=""><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
+ <a href=""><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+ <a href=""><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"></a>
+ <a href=""><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></a>
+ <a href=""><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></a>
+ <a href=""><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+ <a href=""><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+ <a href=""><img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a>
+ <a href=""><img alt="TailWindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+<a href=""><img alt="ChartJS" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"></a>
 </p>
 
 
@@ -85,7 +117,7 @@ Let's forge connections and chart a course towards innovative horizons.
 <a href=""><img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=white"></a>
 <a href=""><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
 <a href=""><img alt="Netbeans" src="https://img.shields.io/badge/NetBeansIDE-05122A.svg?logo=apache-netbeans-ide&logoColor=white"></a>
-<a href=""><img alt="Netbeans" src="https://img.shields.io/badge/Adobe%20Dreamweaver-05122A.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=green"></a>
+<a href=""><img alt="DreamWeaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-05122A.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=green"></a>
 </p>
 
 
@@ -120,6 +152,7 @@ Let's forge connections and chart a course towards innovative horizons.
 <a href=""><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"></a>
 <a href=""><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/></a>
 <a href=""><img alt="Proto Io" src="https://img.shields.io/badge/Proto.io-161637?style=flat&logo=proto.io&logoColor=00e5ff"></a>
+<a href=""><img alt="Visio" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white"></a>
 </p>
 
 
@@ -134,6 +167,8 @@ Let's forge connections and chart a course towards innovative horizons.
 <p align="center">
 <a href=""><img alt="Stack" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"></a>
 <a href=""><img alt="Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=flat&logo=geeksforgeeks&logoColor=white"></a>
+<a href=""><img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"></a>
+<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 
@@ -143,6 +178,8 @@ Let's forge connections and chart a course towards innovative horizons.
 <a href=""><img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"></a>
 <a href=""><img alt="Powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white"></a>
 <a href=""><img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white"></a>
+<a href=""><img alt="Outlook" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=flat&logo=google%20sheets&logoColor=white"></a>
+<a href=""><img alt="Sharepoint" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"></a>
 </p>
 
 
