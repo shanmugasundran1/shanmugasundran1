@@ -204,13 +204,6 @@ Let's forge connections and chart a course towards innovative horizons.
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/shanmugasundran1"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shanmugasundran1&custom_title=shanmugasundran1's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-<br/>
-
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanmugasundran1&layout=compact&theme=algolia" alt="shanmugasundran1" /></a> </p>
