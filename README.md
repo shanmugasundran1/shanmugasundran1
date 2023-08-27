@@ -25,7 +25,6 @@
     <div align=left>
         <br>
         <p>
-            <strong>
 		    I am a dedicated Software Engineer at Dell Technologies with an unwavering passion for the ever-evolving realm of IT. Armed with a First-Class Software Engineering degree from the prestigious University of Malaya, I bring a robust foundation in software design, development, and testing to every project I embrace.
 
 Throughout my journey, I've been privileged to channel my expertise into a diverse array of programming projects, honing my skills across an expansive spectrum of programming languages and frameworks. From the adaptability of Java, C++, and Python to the artistry of PHP, HTML, and CSS, I've harnessed the potential of Bootstrap, JavaScript, R, NodeJS, React JS, React Native, Django, and Spring Framework to architect innovative solutions that push boundaries and surmount real-world challenges.
@@ -35,7 +34,6 @@ My unwavering dedication to excellence, coupled with a relentless curiosity, pro
 I'm genuinely thrilled by the prospect of connecting with fellow professionals, visionary leaders, and kindred spirits who share an ardent love for technology and its capacity for transformation. Whether it's sparking conversations around pioneering concepts, exchanging profound insights, or embarking on fresh collaborations, I eagerly anticipate the chance to partake in meaningful dialogues that pave the way for innovation.
 
 Let's forge connections and chart a course towards innovative horizons.
-            </strong>
         </p>
         <ul>
             <li>🌱 <b>I'm a First Class Graduate from University of Malaya in Bachelor of Computer Science (Software Engineering).</li>
